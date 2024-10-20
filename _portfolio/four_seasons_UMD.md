@@ -1,7 +1,7 @@
 ---
-title: ""
-excerpt: "Gorgeous Scenes of Four Seasons @University of Maryland<br/><img src='/images/four_seasons_UMD.png'>"
-collection: portfolio
+title: "Gorgeous Scenes of Four Seasons @University of Maryland"
+excerpt: "2021, Maryland, USA"
+header:
+  teaser: "/images/four_seasons_UMD.png'"
 ---
 
-2021, Maryland, USA

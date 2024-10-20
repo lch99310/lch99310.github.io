@@ -1,7 +1,6 @@
 ---
-title: ""
-excerpt: "Face Your Fear<br/><img src='/images/facing_fear.png'>"
-collection: portfolio
+title: "Face Your Fear"
+excerpt: "2021, California, USA"
+header:
+  teaser: "/images/facing_fear.png"
 ---
-
-2021, California, USA

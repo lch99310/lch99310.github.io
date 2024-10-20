@@ -1,7 +1,8 @@
 ---
-title: ""
-excerpt: "A man is taking off<br/><img src='/images/took_off.png'>"
-collection: portfolio
+title: "A man is taking off"
+excerpt: "2017, Yilan, Taiwan"
+header:
+  teaser: "/images/took_off.png'"
 ---
 
-2017, Yilan, Taiwan
+

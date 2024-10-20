@@ -1,7 +1,7 @@
 ---
-title: ""
-excerpt: "A Day of Taipei Metro<br/><img src='/images/taipei_metro.GIF'>"
-collection: portfolio
+title: "A Day of Taipei Metro"
+excerpt: "2022, Taipei, Taiwan"
+header:
+  teaser: "/images/taipei_metro.GIF"
 ---
 
-22, Taipei, Taiwan

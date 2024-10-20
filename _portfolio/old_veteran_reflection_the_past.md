@@ -1,7 +1,8 @@
 ---
-title: ""
-excerpt: "Old Veteran Reflect The Past<br/><img src='/images/old_veteran_reflection_the_past.png'>"
-collection: portfolio
+title: "Old Veteran Reflect The Past"
+excerpt: "2020, DC, USA"
+header:
+  teaser: "/images/old_veteran_reflection_the_past.png'"
 ---
 
-2020, DC, USA
+

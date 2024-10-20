@@ -1,7 +1,10 @@
 ---
-title: ""
-excerpt: "Busy Urban Life<br/><img src='/images/busy_urban_life.GIF'>"
-collection: portfolio
+title: "Busy Urban Life"
+excerpt: "2023, Koahsiung, Taiwan"
+header:
+  teaser: "/images/busy_urban_life.GIF"
 ---
 
-23, Koahsiung, Taiwan
+
+
+

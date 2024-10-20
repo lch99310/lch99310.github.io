@@ -1,7 +1,10 @@
 ---
-title: ""
-excerpt: "Desolation<br/><img src='/images/desolate.png'>"
-collection: portfolio
+title: "Desolation"
+excerpt: "2018, Suzhou, China"
+header:
+  teaser: "/images/desolate.png"
 ---
 
-2018, Suzhou, China
+
+
+

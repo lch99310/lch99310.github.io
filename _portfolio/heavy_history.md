@@ -1,7 +1,6 @@
 ---
-title: ""
-excerpt: "Heavy History<br/><img src='/images/heavy_history.png'>"
-collection: portfolio
+title: "Heavy History"
+excerpt: "2021, DC, USA"
+header:
+  teaser: "/images/heavy_history.png'"
 ---
-
-2021, DC, USA
